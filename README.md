@@ -1,26 +1,26 @@
 <h1 align="center">
-<b> 『†hê Lêɠêɳ̃dẞø†』 </b>
+<b> CMSBOT </b>
 </h1>
 
 <p align="center">
-  <img src="https://te.legra.ph/file/d17467283e73c884834a5.jpg" alt="LEGEND-OS">
+  <img src="https://te.legra.ph/file/e3b164d3c56cddda4bfcb.jpg" alt="Rengokusan001">
 </p>
 
 <h6 align="center">
-  <b>⚡ ʟɛɢɛռɖaʀʏ ᴀғ Lêɠêɳ̃dẞø† ⚡</b>
+  <b>⚡POWERED BY Lêɠêɳ̃dẞø† ⚡</b>
 </h6>
 
 <h3 align="center">
-  <b>A Smooth & Fast Telegram Userbot Based On Telethon Bot Library.</b>
+  <b>A Telegram Userbot.</b>
 </h3>
 
 ------
 <p align="center">
-<a href="https://github.com/LEGEND-OS/LEGENDBOT" alt="GitHub closed issues"> <img src="https://img.shields.io/github/issues-closed-raw/LEGEND-OS/LEGENDBOT?style=flat&logo=github&color=success" /> </a>
-<a href="https://github.com/LEGEND-OS/LEGENDBOT/graphs/contributors" alt="GitHub contributors"> <img src="https://img.shields.io/github/contributors/LEGEND-OS/LEGENDBOT?style=flat&logo=github" /> </a>
-<a href="https://github.com/LEGEND-OS/LEGENDBOT/network/members" alt="GitHub forks"> <img src="https://img.shields.io/github/forks/LEGEND-OS/LEGENDBOT?label=Forks&logo=github" /> </a>
-<a href="https://github.com/LEGEND-OS/LEGENDBOT" alt="GitHub closed pull requests"> <img src="https://img.shields.io/github/issues-pr-closed-raw/LEGEND-OS/LEGENDBOT?color=success" /> </a>
-<a href="https://github.com/LEGEND-OS/LEGENDBOT" alt="GitHub issues"> <img src="https://img.shields.io/github/issues-raw/LEGEND-OS/LEGENDBOT?style=flat&logo=github&color=yellow" /> </a>
+<a href="https://github.com/Rengokusan001/CMSBOT" alt="GitHub closed issues"> <img src="https://img.shields.io/github/issues-closed-raw/LEGEND-OS/LEGENDBOT?style=flat&logo=github&color=success" /> </a>
+<a href="https://github.com/Rengokusan001/CMSBOT/graphs/contributors" alt="GitHub contributors"> <img src="https://img.shields.io/github/contributors/Rengokusan001/CMSBOT?style=flat&logo=github" /> </a>
+<a href="https://github.com/Rengokusan001/CMSBOT/network/members" alt="GitHub forks"> <img src="https://img.shields.io/github/forks/Rengokusan001/CMSBOT?label=Forks&logo=github" /> </a>
+<a href="https://github.com/Rengokusan001/CMSBOT" alt="GitHub closed pull requests"> <img src="https://img.shields.io/github/issues-pr-closed-raw/Rengokusan001/CMSBOT?color=success" /> </a>
+<a href="https://github.com/Rengokusan001/CMSBOT" alt="GitHub issues"> <img src="https://img.shields.io/github/issues-raw/Rengokusan001/CMSBOT?style=flat&logo=github&color=yellow" /> </a>
 </p>
 <p align="center">
 <a href="https://github.com/LEGEND-OS/LEGENDBOT" alt="GitHub release (latest by date including pre-releases)"> <img src="https://img.shields.io/github/v/release/LEGEND-OS/LEGENDBOT?include_prereleases?style=flat&logo=github" /> </a>
