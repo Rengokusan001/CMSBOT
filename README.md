@@ -22,24 +22,12 @@
 <a href="https://github.com/Rengokusan001/CMSBOT" alt="GitHub closed pull requests"> <img src="https://img.shields.io/github/issues-pr-closed-raw/Rengokusan001/CMSBOT?color=success" /> </a>
 <a href="https://github.com/Rengokusan001/CMSBOT" alt="GitHub issues"> <img src="https://img.shields.io/github/issues-raw/Rengokusan001/CMSBOT?style=flat&logo=github&color=yellow" /> </a>
 </p>
-<p align="center">
-<a href="https://github.com/Rengokusan001/CMSBOT" alt="GitHub release (latest by date including pre-releases)"> <img src="https://img.shields.io/github/v/release/Rengokusan001/CMSBOT?include_prereleases?style=flat&logo=github" /> </a>
-<a href="https://www.python.org/" alt="made-with-python"> <img src="https://img.shields.io/badge/Made%20with-Python-1f425f.svg?style=flat&logo=python&color=blue" /> </a>
-<a href="https://github.com/Rengokusan001/CMSBOT" alt="Docker!"> <img src="https://aleen42.github.io/badges/src/docker.svg" /> </a>
-<a href="https://github.com/Rengokusan001/CMSBOT" alt="GitHub repo size"> <img src="https://img.shields.io/github/repo-size/Rengokusan001/CMSBOT" /> </a>
-<a href="https://github.com/Rengokusan001/CMSBOT/blob/master/LICENSE" alt="GPLv3 license"> <img src="https://img.shields.io/badge/License-GPLv3-blue.svg" /> </a>
-</p>
-<p align="center">
-<a href="https://t.me/Legend_Userbot" alt="Telegram!"> <img src="https://aleen42.github.io/badges/src/telegram.svg" /> </a>
-<a href="https://github.com/LEGEND-OS/LEGENDBOT/graphs/commit-activity" alt="Maintenance"> <img src="https://img.shields.io/badge/Maintained%3F-yes-green.svg" /> </a>
-<a href="https://makeapullrequest.com" alt="PRs Welcome"> <img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square" /> </a>
-</p>
 
 ------
 ## Status Of Bot 
 
 <p align="left">
-    <a href="https://github.com/LEGEND-OS/LEGENDBOT/network/members"><img src="https://img.shields.io/github/forks/LEGEND-OS/LEGENDBOT?label=Forks&logoColor=Black&style=social"></a><p align="left"><a href="https://github.com/LEGEND-OS/LEGENDBOT/stargazers"><img src="https://img.shields.io/github/stars/LEGEND-OS/LEGENDBOT?logoColor=Blue&style=social"></a><p align="left"><a href="https://github.com/LEGEND-OS/LEGENDBOT"></a><p align="left"><a href="https://github.com/LEGEND-OS/LEGENDBOT?"></a>
+    <a href="https://github.com/Rengokusan001/CMSBOT/network/members"><img src="https://img.shields.io/github/forks/Rengokusan001/CMSBOT?label=Forks&logoColor=Black&style=social"></a><p align="left"><a href="https://github.com/Rengokusan001/CMSBOT/stargazers"><img src="https://img.shields.io/github/stars/Rengokusan001/CMSBOT?logoColor=Blue&style=social"></a><p align="left"><a href="https://github.com/Rengokusan001/CMSBOT"></a><p align="left"><a href="https://github.com/Rengokusan001/CMSBOT?"></a>
 
 ------
 ## Telegram 🏪
@@ -51,11 +39,6 @@
 - [![Heroku](https://telegra.ph/file/1ded5ead2f8cc5828897a.jpg)](#Deploy-To-Heroku)
 
 - [![Locally](https://telegra.ph/file/15027ba18429789a77255.jpg)](#Deploy-Locally)
-
-------
-## YouTube 📺
-- [![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCvp8PY25PTRhFDZjLv3sVfg?style=social)](https://youtube.com/channel/UCvp8PY25PTRhFDZjLv3sVfg)
-- [![YouTube Video Views](https://img.shields.io/youtube/views/9dQgdUJfk_k?label=Tutorial+•+Heroku+•&style=social)](https://youtu.be/9dQgdUJfk_k)
 
 ------
 ## Deploy To Heroku
@@ -70,10 +53,10 @@
 
 - Clone the repo. 
 
-`git clone https://github.com/LEGEND-OS/LEGENDUSERBOT.git`
+`git clone https://github.com/Rengokusan001/CMSUSERBOT.git`
 - Open Cloned Folder.
 
-`cd LEGENDUSERBOT`
+`cd CMSUSERBOT`
 - Create VirtualEnv.
 
 `virtualenv -p /usr/bin/python3 venv`
@@ -82,7 +65,7 @@
 - Install Requirements.
 
 `pip install -U -r requirements.txt`
-- Generate LEGEND STRING.
+- Generate CMS STRING.
 
 `python LegendString.py`
 - Create config.py or rename exampleconfig.py to config.py. Fill All The Required Variables.
@@ -96,7 +79,7 @@
 
 - `APP_ID`  =  Get this value from my.telegram.org
 - `API_HASH`  =  Get this value from my.telegram.org
-- `LEGEND_STRING`  =  Get this by using [Repl.it](#Repl) or from [terminal](#Terminal)
+- `CMS_STRING`  =  Get this by using [Repl.it](#Repl) or from [terminal](#Terminal)
 - `LOGGER_ID`  =  Make A Channel And Get it's ID.
 - `BOT_TOKEN`  =  Make A Bot From [@BotFather](https://t.me/botfather) and paste it's token.
 - `BOT_USERNAME`  =  Get the username of that Bot made from [@Botfather](https://t.me/botfather)
@@ -129,7 +112,7 @@
 - Open the terminal.
 - Paste this code.
 
-`pkg install python wget -y && pip install telethon && wget https://raw.githubusercontent.com/LEGEND-OS/LEGENDUSERBOT/master/LegendString.py && python3 LegendString.py`
+`pkg install python wget -y && pip install telethon && wget https://raw.githubusercontent.com/Rengokusan001/CMSUSERBOT/master/LegendString.py && python3 LegendString.py`
 - Fill API ID, API HASH, Phone number (with country code).
 - Paste the OTP received on Telegram.
 - If You have Enabled 2-Step Verification then fill your password.
@@ -140,7 +123,7 @@
 ------
 ## Disclaimer
 - We won't be responsible for any kind of ban due to this bot.
-- HellBot was made for fun purpose and to make group management easier.
+- CMSBOT was made for fun purpose and to make group management easier.
 - It's your concern if you spam and gets your account banned.
 - Also, Forks won't be entertained.
 - If you fork this repo and edit plugins, it's your concern for further updates.
@@ -149,18 +132,7 @@
 
 ------
 
-<h2 align="center"> <a href="https://github.com/LEGEND-OS/LEGENDUSERBOT">⚡ 𝕷êgèñd𝕭øt ⚡</a></h2>
-
-------------
-# Do U Face Any Problem Contact me Through Telegram 
-
-<a href="https://t.me/Legend_Userbot"><img src="https://img.shields.io/badge/Legend%20Group-red.svg?style=for-the-badge&logo=Telegram"></a>
-
-<a href="https://t.me/The_LegendBoy"><img src="https://img.shields.io/badge/CREATOR%20ME-blue.svg?style=for-the-badge&logo=Telegram"></a>
-
-
-[![Contact Me](https://img.shields.io/badge/Telegram-Contact%20Me-informational)](https://t.me/The_LegendBoy)
-
+<h2 align="center"> <a href="https://github.com/Rengokusan001/CMSBOT">⚡ CMSBOT ⚡</a></h2>
 
 <details>
 
@@ -196,4 +168,5 @@ along with this program. If not, see <https://www.gnu.org/licenses/>.
 
   <summary> • 💡 CREDITS 💞 • </summary>
   
-⚜ [LEGEND](https://github.com/LEGEND-OS)
+⚜ [LEGENDBOY](https://github.com/LEGEND-OS/LEGENDBOT)
+
